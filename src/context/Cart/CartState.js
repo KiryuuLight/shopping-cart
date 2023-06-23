@@ -1,4 +1,4 @@
-import React, { useEffect, useReducer } from 'react';
+import React, { useReducer } from 'react';
 import { reduceFn } from './CartReducer';
 import { CartContext } from './CartContext';
 import {
@@ -14,10 +14,6 @@ const CartState = (props) => {
   };
 
   const [state, dispatch] = useReducer(reduceFn, initialState);
-
-  useEffect(() => {
-    console.log(state);
-  }, [state]);
 
   const addItem = (product) => {
     dispatch({ type: ADD_ITEM, payload: product });
