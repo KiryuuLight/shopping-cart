@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35c98bd5.css",
+    "main.js": "/static/js/main.3923cd70.js",
+    "static/media/women-shopping.png": "/static/media/women-shopping.d71762b81dbf1da33bbe.png",
+    "static/media/cart.svg": "/static/media/cart.9774ba211f930d5a04abd7774de94fb4.svg",
+    "static/media/plus.svg": "/static/media/plus.ddb9143f55fb7e9a2913fd4272d3fed6.svg",
+    "static/media/hamburguer.svg": "/static/media/hamburguer.284b3a790b0a06b6df04dcfaacad380c.svg",
+    "static/media/star.svg": "/static/media/star.ff80424452cc1600660fbaee70cd17c2.svg",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.ad1a7b59503c8005008ce7725d7a1133.svg",
+    "static/media/minus.svg": "/static/media/minus.dfb8d03f00b12a386dec44b95b412eb5.svg",
+    "main.35c98bd5.css.map": "/static/css/main.35c98bd5.css.map",
+    "main.3923cd70.js.map": "/static/js/main.3923cd70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c98bd5.css",
+    "static/js/main.3923cd70.js"
+  ]
+}
