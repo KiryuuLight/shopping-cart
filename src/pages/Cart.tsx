@@ -15,7 +15,7 @@ function Cart() {
         {cartItems.length === 0 ? (
           <div className=" text-center text-lg">No items :(</div>
         ) : (
-          <div className="flex lg:gap-12">
+          <div className="flex flex-col lg:flex-row lg:gap-12">
             <div className="flex flex-col items-center gap-8">
               {cartItems.map((item) => (
                 <CartItem product={item} drawer={false} key={item.id} />
